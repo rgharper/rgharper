@@ -1,5 +1,3 @@
 I write some code
-
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+![Trends](https://api.githubtrends.io/user/svg/FileNotFound7/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)
+![Metrics](/github-metrics.svg)
